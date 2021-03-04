@@ -1,0 +1,9 @@
+(1)available model name：
+    "mobilenetv2"
+    "shufflenetv2_x0_5"
+    "squeezenet1_0"
+(2)dependency：numpy pytorch torchvision PIL opencv2
+(3)use case is from line 253 to line 258 in classifier_api.py
+(4)label：
+    0--normal
+    1--abnormal
